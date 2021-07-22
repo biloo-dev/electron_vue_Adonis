@@ -5,20 +5,15 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Install AdonisJs server packages
 ```
-npm run serve
+cd server 
+npm install 
+
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Run The Project 
 
-### Lints and fixes files
 ```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+npm run electron:serve
+ 
